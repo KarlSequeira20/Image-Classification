@@ -1,4 +1,4 @@
-# Pneumonia-Classification-on-TPU
+# Image Classification 
 This is a project for EdTech Society
 
 #Resource
