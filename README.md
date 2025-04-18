@@ -1,4 +1,4 @@
-# Image Classification 
+# Mood Classification 
 This is a project for EdTech Society
 
 #Resource
